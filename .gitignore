@@ -12,3 +12,5 @@ AI-QA-Playwright-Generator/.env
 AI-QA-Playwright-Generator/generated-testcases/
 AI-QA-Playwright-Generator/generated-tests/
 AI-QA-Playwright-Generator/*.xlsx
+allure-results/
+allure-report/
