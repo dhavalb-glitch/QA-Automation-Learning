@@ -37,5 +37,8 @@
     "lint-staged": "^17.5.0",
     "playwright": "^1.58.2",
     "prettier": "^3.8.3"
+  },
+  "dependencies": {
+    "playwright-shared-lib": "file:playwright-shared-lib"
   }
 }
